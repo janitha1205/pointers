@@ -6,8 +6,8 @@ pointers nothing but label of one's veriable stored in memory space,
 pointer point out, this is notation of data stored in area. 
 so when do programing, need not to defined varibles in vain, so that, if you know the lable, that tell us where in the space stored such data.
 
-*& notaion tell us to pass the address of such data has been stored
-** notation tell us the value of data stored in a paticular addressed
+* & notaion tell us to pass the address of such data has been stored
+* * notation tell us the value of data stored in a paticular addressed
 
 ## supose in other words
 
