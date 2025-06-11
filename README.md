@@ -12,7 +12,9 @@ so when do programing, need not to defined varibles in vain, so that, if you kno
 ## supose in other words
 
 int k =10(value to assign such memory space)
+
 int j = &k(address of assigned value)
+
 int l = *j(value of paticular addressed located space stored, nothing but 10)
 
 these are the so-called pointer do
