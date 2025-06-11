@@ -1,0 +1,2 @@
+# pointers
+lecture note
