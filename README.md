@@ -22,4 +22,4 @@ these are the so-called pointer do
 ## usage
 
 when you passing the values through function, function itself, do not need to return value, so in other words, if you know adress of paticular variable, when you pass the adress other than value stored,
-function itself have an accesse to paticlar memory area through its body, so do not need to define global varible, its simply programers life easier.
+function itself have an accesse to paticlar memory area through its body, so do not need to define global varible, its simply doing programers life easier.
